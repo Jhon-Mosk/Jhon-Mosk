@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jhon-Mosk
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning telegram bots, yandex serveless
+- 🌱 I’m currently learning telegram bots, yandex serveless, github actions
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: telegram - https://t.me/Jhon_Mosk
 

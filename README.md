@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning bots, yandex cloud
 - 📫 How to reach me: telegram - https://t.me/Jhon_Mosk
 
-[![Anurag's GitHub stats](https://d5d0eddb7adlnht7keh1.apigw.yandexcloud.net/?username=Jhon-Mosk&count_private=true&show_icons=true&theme=merko&include_all_commits=true&locale=ru)](https://github.com/anuraghazra/github-readme-stats)                
+[![Anurag's GitHub stats](https://d5d0eddb7adlnht7keh1.apigw.yandexcloud.net/?username=Jhon-Mosk&count_private=true&show_icons=true&theme=merko&include_all_commits=true&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://d5d0eddb7adlnht7keh1.apigw.yandexcloud.net/wakatime?username=Jhon_Mosk&theme=merko&locale=ru&custom_title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%20Wakatime%20%D0%B7%D0%B0%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B2%D0%B5%20%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B8)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 ### Языки используемые в публичных репозиториях
 

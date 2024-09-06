@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jhon-Mosk
+- 👋 Hi, I’m @Jhon-Mosk and I'm developer
 - 👀 I’m interested in digital world and technologies
 - 🌱 I’m currently learning Node.js, DevOps
 - 📫 How to reach me: telegram - https://t.me/Jhon_Mosk

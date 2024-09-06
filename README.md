@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jhon-Mosk
 - 👀 I’m interested in digital world and technologies
-- 🌱 I’m currently learning bots, yandex cloud
+- 🌱 I’m currently learning Node.js, DevOps
 - 📫 How to reach me: telegram - https://t.me/Jhon_Mosk
 
 [![Anurag's GitHub stats](https://d5d0eddb7adlnht7keh1.apigw.yandexcloud.net/?username=Jhon-Mosk&count_private=true&show_icons=true&theme=merko&include_all_commits=false&locale=ru)](https://github.com/anuraghazra/github-readme-stats)

@@ -5,7 +5,8 @@
 
 [![Anurag's GitHub stats](https://d5d0eddb7adlnht7keh1.apigw.yandexcloud.net/?username=Jhon-Mosk&count_private=true&show_icons=true&theme=merko&include_all_commits=false&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Wakatime stats](https://d5d0eddb7adlnht7keh1.apigw.yandexcloud.net/wakatime?username=Jhon_Mosk&theme=merko&locale=ru&layout=compact)](https://wakatime.com/@Jhon_Mosk)
+[![Wakatime stats](https://d5d0eddb7adlnht7keh1.apigw.yandexcloud.net/wakatime?username=Jhon_Mosk&theme=merko&locale=ru&layout=compact&langs_count=10![Uploading image.png…]()
+)](https://wakatime.com/@Jhon_Mosk)
 <!---
 ### Языки используемые в публичных репозиториях
 
